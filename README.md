@@ -1,4 +1,4 @@
-# 👨‍💻 José Antonio
+# José Antonio
 
 **| Desenvolvedor Front-End**
 
