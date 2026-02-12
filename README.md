@@ -2,7 +2,11 @@
 
 **| Desenvolvedor Front-End**
 
-Eu chamo José Antonio, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio, e atualmente estou estudando sob programação Front-End. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Github, onde tenho feito alguns projetos em "[José Antonio](https://github.com/joseantoniorodrigues)", e também através do Linkedin, dedicando ao meu perfil profissonal nesta área.
+Me chamo José, sou natural de São Paulo – Brasil e atualmente moro em Sorocaba.
+
+Concluí o Ensino Médio e atualmente trabalho no CD do Mercado Livre. Paralelamente, estudo programação no curso do meu mentor Rodolfo Mori, reconhecido pelo MEC, onde venho aprendendo e praticando tecnologias como HTML, CSS, JavaScript e TypeScript, além de desenvolver projetos na área.
+
+Caso tenha interesse em se conectar comigo no LinkedIn, é só clicar no botão abaixo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joseantoniorodrigues">
@@ -73,25 +77,3 @@ Eu chamo José Antonio, tenho 18 anos e sou natural de São Paulo. Concluí o en
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<br>
-</br>
-
-### 📊 Estatísticas
-
-<img
-    align="left"
-    title="Git States"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=joseantoniorodrigues&show_icons=true&theme=radical&include_all_commits-true&locale=pt-br"
-/>  
-
-<img
-    align="left"
-    title="Git States"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseantoniorodrigues&theme=radical&layout=compact&custom_title=Tecnologias&langs_count3"
-/>  
-
