@@ -23,7 +23,7 @@ Caso tenha interesse em se conectar comigo no LinkedIn, é só clicar no botão 
             img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"
         >
     </a> 
-    <a href="https://joseantoniorodriguesr73@gmail.com/">
+    <a href="https://contato.devrodrigues@gmail.com/">
         <img 
             alt="Email" 
             title="mande um email" 
