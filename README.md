@@ -1,12 +1,31 @@
-# José Antonio
+# José Antônio
 
-**| Desenvolvedor Front-End**
+**Desenvolvedor Front-End em transição de carreira 💻**
 
-Me chamo José, sou natural de São Paulo – Brasil e atualmente moro em Sorocaba.
+Olá! Eu sou José Antônio, atualmente trabalho no Mercado Livre e estou construindo minha carreira na área de tecnologia.
 
-Concluí o Ensino Médio e atualmente trabalho no CD do Mercado Livre. Paralelamente, estudo programação no curso do meu mentor Rodolfo Mori, reconhecido pelo MEC, onde venho aprendendo e praticando tecnologias como HTML, CSS, JavaScript e TypeScript, além de desenvolver projetos na área.
+Concluí o Ensino Médio e, paralelamente ao trabalho, estudo desenvolvimento Front-End, colocando em prática meus conhecimentos por meio de projetos pessoais.
 
-Caso tenha interesse em se conectar comigo no LinkedIn, é só clicar no botão abaixo.
+Atualmente, estudo e pratico:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+- Figma
+
+Meu objetivo é evoluir constantemente como desenvolvedor, transformar ideias em projetos reais e conquistar minha primeira oportunidade profissional na área de desenvolvimento.
+
+## 🚀 Projetos
+
+Em breve, meus principais projetos estarão disponíveis aqui.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Front-End
+- JavaScript
+- Git e GitHub
+- Responsividade e boas práticas de desenvolvimento
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joseantoniorodrigues">
