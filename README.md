@@ -1,6 +1,6 @@
 # José Antônio
 
-**Desenvolvedor Front-End em transição de carreira 💻**
+**Representante de Envios 1 em transição de carreira 💻**
 
 Olá! Eu sou José Antônio, atualmente trabalho no Mercado Livre e estou construindo minha carreira na área de tecnologia.
 
