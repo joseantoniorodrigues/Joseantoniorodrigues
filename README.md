@@ -91,4 +91,6 @@ Always open to collaborations, discussions about code, and new opportunities!
     </a>
 </p>
 
+<br/>
+
 ⭐ If you liked it, please leave a star on my repositories! It motivates me to create even more amazing content.
