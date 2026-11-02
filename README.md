@@ -1,98 +1,94 @@
-# José Antônio
+<img src="./The%20final.png" />
 
-**Representante de Envios 1 em transição de carreira 💻**
+<br/>
+<br/>
 
-Olá! Eu sou José Antônio, atualmente trabalho no Mercado Livre e estou construindo minha carreira na área de tecnologia.
+# ✨ Welcome to my GitHub ✨ #
 
-Concluí o Ensino Médio e, paralelamente ao trabalho, estudo desenvolvimento Front-End, colocando em prática meus conhecimentos por meio de projetos pessoais.
+| "There’s no such thing as a free lunch" — I strive to write clean code 👊!
 
-Atualmente, estudo e pratico:
+I am a Web Development student with a passion for technology, programming, and creating digital solutions. I am currently building my path in the IT field, honing my skills in HTML, CSS, JavaScript, and Git/GitHub.
 
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-- Figma
+I believe that programming goes far beyond just writing code—it’s about transforming ideas into solutions, solving problems, and engaging in continuous learning. My goal is to grow as a Full Stack developer, build increasingly comprehensive projects, and establish a solid career in technology. 🚀
 
-Meu objetivo é evoluir constantemente como desenvolvedor, transformar ideias em projetos reais e conquistar minha primeira oportunidade profissional na área de desenvolvimento.
+<br/>
+<br/>
 
-## 🚀 Projetos
+# 💻 Tech Stack #
 
-Em breve, meus principais projetos estarão disponíveis aqui.
+<br/>
 
-## 📚 Atualmente estudando
+# Front-end #
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- Desenvolvimento Front-End
-- JavaScript
-- Git e GitHub
-- Responsividade e boas práticas de desenvolvimento
 
+<br/>
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=joseantoniorodrigues&show_icons=true&theme=dark_github&hide_border=false"
+    width="400"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseantoniorodrigues&layout=compact&langs_count=8&theme=dark_github&card_width=400&hide_border=false"
+    width="400"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joseantoniorodrigues&theme=dark&hide_border=true&locale=pt_BR&timezone=America%2FSao_Paulo&short_numbers=true" />
+</p>
+    
+# 📎Connect with me: #
+Always open to collaborations, discussions about code, and new opportunities!
 <p align="left">
     <a href="https://www.linkedin.com/in/joseantoniorodrigues">
-        <img 
-            alt="perfil linkedin" 
-            title="Entra ai" 
-            img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2"
+        <img
+            alt="LinkedIn"
+            title="Visit my LinkedIn"
+            width="50"
+            height="50"
+            src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png"
         >
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/josee._.big_/">
-        <img 
-            alt="perfil instagram" 
-            title="curioso em" 
-            img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"
+        <img
+            alt="Instagram"
+            title="Follow me on Instagram"
+            width="50"
+            height="50"
+            src="https://img.icons8.com/3d-fluency/94/instagram-new.png"
         >
-    </a> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://contato.devrodrigues@gmail.com/">
-        <img 
-            alt="Email" 
-            title="mande um email" 
-            img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"
+        <img
+            alt="Email"
+            title="Send me an email"
+            width="50"
+            height="50"
+            src="https://img.icons8.com/3d-fluency/94/gmail.png"
         >
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/qr/KYMBJV3XECGGP1">
-        <img 
-            alt="WhatsApp" 
-            title="vamo conversar" 
-            img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/whatsapp.png"
-        >
-    </a>
-    <a href="https://github.com/joseantoniorodrigues">
-        <img 
-            alt="GitHub" 
-            title="ME SIGA" 
-            img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"
+        <img
+            alt="WhatsApp"
+            title="Let's chat on WhatsApp"
+            width="50"
+            height="50"
+            src="https://img.icons8.com/3d-fluency/94/whatsapp.png"
         >
     </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+⭐ If you liked it, please leave a star on my repositories! It motivates me to create even more amazing content.
