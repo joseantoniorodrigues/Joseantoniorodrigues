@@ -5,7 +5,7 @@
 
 # ✨ Welcome to my GitHub ✨ #
 
-| "There’s no such thing as a free lunch" — I strive to write clean code 👊!
+### | "There’s no such thing as a free lunch" — I strive to write clean code 👊!
 
 I am a Web Development student with a passion for technology, programming, and creating digital solutions. I am currently building my path in the IT field, honing my skills in HTML, CSS, JavaScript, and Git/GitHub.
 
@@ -14,11 +14,11 @@ I believe that programming goes far beyond just writing code—it’s about tran
 <br/>
 <br/>
 
-# 💻 Tech Stack #
+# 💻 Tech Stack 
 
 <br/>
 
-# Front-end #
+### Front-end 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,7 @@ I believe that programming goes far beyond just writing code—it’s about tran
   <img src="https://streak-stats.demolab.com/?user=joseantoniorodrigues&theme=dark&hide_border=true&locale=pt_BR&timezone=America%2FSao_Paulo&short_numbers=true" />
 </p>
     
-# 📎Connect with me: #
+### 📎Connect with me: 
 Always open to collaborations, discussions about code, and new opportunities!
 <p align="left">
     <a href="https://www.linkedin.com/in/joseantoniorodrigues">
